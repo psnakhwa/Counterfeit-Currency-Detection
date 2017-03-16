@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency</string>
+    <string name="action_settings">Settings</string>
+    <string name="st1">The contents on this application are provided for information only.</string>
+    <string name="st2">While we make every effort to ensure that the contents are up to date and information is accurate, we do not warrant or accept any responsibilty for the correctness or completeness of the content.</string>
+    <string name="st3">Information on this application cannot replace a professional judgement.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_a1">A1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ok">I AGREE</string>
+    <string name="disc">DISCLAIMER</string>
+    <string name="title_activity_a111">A111</string>
+    <string name="title_activity_check">Check</string>
+    <string name="title_activity_information">Information</string>
+    <string name="chck">PLEASE SPECIFY THE DENOMINATION</string>
+    <string name="inst">Please ensure that your camera captures high quality pictures. Blur pictures will not fetch accurate resukts.Ensure that the entire note occupies the screen.</string>
+    <string name="title_activity_pic100">Pic100</string>
+    <string name="title_activity_pic500">Pic500</string>
+    <string name="title_activity_pic1000">Pic1000</string>
+    <string name="title_activity_upload_activity1">UploadActivity1</string>
+    <string name="title_activity_upload_activity2">UploadActivity2</string>
+    <string name="title_activity_upload_activity3">UploadActivity3</string>
+    <string name="title_activity_result1">Result1</string>
+
+</resources>

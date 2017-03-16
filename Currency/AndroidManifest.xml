@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.currency"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".A111"
+            android:label="@string/title_activity_a111" >
+        </activity>
+        <activity
+            android:name=".Check"
+            android:label="@string/title_activity_check" >
+        </activity>
+        <activity
+            android:name=".Information"
+            android:label="@string/title_activity_information" >
+        </activity>
+        <activity
+            android:name=".Pic100"
+            android:label="@string/title_activity_pic100" >
+        </activity>
+        <activity
+            android:name=".Pic500"
+            android:label="@string/title_activity_pic500" >
+        </activity>
+        <activity
+            android:name=".Pic1000"
+            android:label="@string/title_activity_pic1000" >
+        </activity>
+        <activity
+            android:name=".UploadActivity1"
+            android:label="@string/title_activity_upload_activity1" >
+        </activity>
+        <activity
+            android:name=".UploadActivity2"
+            android:label="@string/title_activity_upload_activity2" >
+        </activity>
+        <activity
+            android:name=".UploadActivity3"
+            android:label="@string/title_activity_upload_activity3" >
+        </activity>
+        <activity
+            android:name=".Result1"
+            android:label="@string/title_activity_result1" >
+        </activity>
+    </application>
+
+</manifest>
